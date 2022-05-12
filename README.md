@@ -4,7 +4,7 @@ Some of my related hobbies include analog circuitry, digital logic, RISC computi
 This repository will be primarily geared towards ARM computing ranging from guides to small patches.
 
 If any of my work or contributions interest you, or you would like to prod my brain for information, shoot me an email:
-whatsup@wootyb.com
+wooty@wootyb.com
 
 <!---
 Wooty-B/Wooty-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
