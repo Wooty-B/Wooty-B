@@ -6,6 +6,7 @@ This repository will be primarily geared towards ARM computing ranging from guid
 If any of my work or contributions interest you, or you would like to prod my brain for information, shoot me an email:
 wooty@wootyb.com
 
+YouTube Channel: https://www.youtube.com/channel/UCKdiQ8YvKrl6WFdUiqFtUdw
 <!---
 Wooty-B/Wooty-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
