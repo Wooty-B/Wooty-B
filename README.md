@@ -4,7 +4,7 @@ Some of my related hobbies include analog circuitry, digital logic, RISC computi
 This repository will be primarily geared towards ARM computing ranging from guides to small patches.
 
 If any of my work or contributions interest you, or you would like to prod my brain for information, shoot me an email:
-wooty@wootyb.com
+wootyb@wootyb.com
 
 YouTube Channel: https://www.youtube.com/channel/UCKdiQ8YvKrl6WFdUiqFtUdw
 <!---
